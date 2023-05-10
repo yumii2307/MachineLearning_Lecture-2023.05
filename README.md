@@ -1,4 +1,4 @@
-# Machine_Learning_Lecture_2023.05
+# MachineLearning_Lecture_2023.05
 
 ### 머신 러닝 강좌
 
