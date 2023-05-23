@@ -11,6 +11,7 @@ key/
 photo/
 test/
 model/
+credits.csv
 
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
